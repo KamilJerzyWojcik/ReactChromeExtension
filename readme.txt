@@ -21,8 +21,11 @@
 19. npm i --save-dev webpack-merge
 20. npm i --save-dev clean-webpack-plugin
 
+init:
+    npm install
+
 run: 
-    npm starting
+    npm start
 
 production mode:
     npm run build
