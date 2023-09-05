@@ -9,3 +9,7 @@
 8. npm i --save-dev webpack-cli
 9. webpack.config.js
 10. npm i --save-dev ts-loader
+11. manifest.json
+12. npm i --save-dev copy-webpack-plugin
+13. npm i --save-dev html-webpack-plugin
+14. npm i --save-dev react-dom
