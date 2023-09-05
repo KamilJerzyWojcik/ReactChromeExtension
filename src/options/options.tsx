@@ -2,10 +2,17 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import "./options.css";
 
-const test = <h1>Hello World from Options!</h1>;
+const App: React.FC<{}> = () => {
+    return (
+        <div className="App">
+        <header className="App-header">
+            <h1>Hello World Option</h1>
+            <img src="icon.png" />
+        </header>
+        </div>
+    );
+};
 
 const domNode = document.createElement('div');
 document.body.appendChild(domNode);
-
-const root = createRoot(domNode);
-root.render(test);
+createRoot(domNode).render(<App />);

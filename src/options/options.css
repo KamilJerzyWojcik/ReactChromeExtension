@@ -1,0 +1,30 @@
+/* Styl dla głównego diva o nazwie klasy "App" */
+.App {
+    width: 100%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  /* Styl dla nagłówka o nazwie klasy "App-header" */
+  .App-header {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
+  /* Styl dla nagłówka h1 */
+  .App-header h1 {
+    margin: 0;
+    padding: 0.2em 0;
+    font-size: 2em;
+  }
+  
+  /* Styl dla obrazka w nagłówku */
+  .App-header img {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
