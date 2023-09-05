@@ -4,3 +4,8 @@
 3. npm i  --save-dev typescript
 4. npm i --save-dev react
 5. tsconfig.json
+6. npx tsc -> tsx to js all
+7. npm i --save-dev webpack webpack
+8. npm i --save-dev webpack-cli
+9. webpack.config.js
+10. npm i --save-dev ts-loader
