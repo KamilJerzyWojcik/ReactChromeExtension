@@ -15,3 +15,18 @@
 14. npm i --save-dev react-dom
 15. npm i --save-dev style-loader
 15. npm i --save-dev css-loader
+16.  npm i --save-dev @types/react
+17. npm i --save-dev @types/react-dom
+18. npm i --save-dev @types/chrome
+19. npm i --save-dev webpack-merge
+20. npm i --save-dev clean-webpack-plugin
+
+run: 
+    npm starting
+
+production mode:
+    npm run build
+
+
+
+tworzenie rozszerzenia do chrome z silnym typowanie w typescript i react.
