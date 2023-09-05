@@ -1,8 +1,8 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import "./popup.css";
+import "./options.css";
 
-const test = <img src="icon.png" />;
+const test = <h1>Hello World from Options!</h1>;
 
 const domNode = document.createElement('div');
 document.body.appendChild(domNode);

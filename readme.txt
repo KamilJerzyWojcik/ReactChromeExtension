@@ -13,3 +13,5 @@
 12. npm i --save-dev copy-webpack-plugin
 13. npm i --save-dev html-webpack-plugin
 14. npm i --save-dev react-dom
+15. npm i --save-dev style-loader
+15. npm i --save-dev css-loader
